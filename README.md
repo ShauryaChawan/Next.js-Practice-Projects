@@ -7,5 +7,5 @@
 
 ![](./imgs/p1.png)
 
-## 2. [Project 2 - Routing Demo](./hello-world/)
+## 2. [Project 2 - Routing Demo](./routing-demo//)
 

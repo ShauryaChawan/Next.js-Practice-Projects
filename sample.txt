@@ -1,6 +1,0 @@
-1. What is Next.js
-2. Why Next.js
-3. Next.js vs Rect.js
-4. Next.js vs Angular
-5. React Server Components
-6. Next.js Routing

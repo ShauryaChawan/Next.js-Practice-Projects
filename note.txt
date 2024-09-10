@@ -1,0 +1,16 @@
+1. What is Next.js
+2. Why Next.js
+3. Next.js vs Rect.js
+4. Next.js vs Angular
+5. React Server Components
+6. Next.js Routing
+	6.1. Basic Routing 
+	6.2. Nested Routes
+	6.3. Dynamic Routes
+	6.4. Dynamic Nested Routes
+	6.5. Catch All Segments
+	6.6. Optional Catch All Segments
+7. Custom "404" page
+8. "notFound" Funtion
+9. File Colocation
+10. Private Folders
